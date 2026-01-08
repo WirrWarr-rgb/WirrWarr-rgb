@@ -37,8 +37,11 @@
   <td width="50%" style="vertical-align: top;">
     
   #### 🔫 GetAhead
+  <div>
   <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=flat" height="40"/>
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" height="40"/>
+  <img src="https://img.shields.io/badge/Solo_Dev-59621a?logo=person&logoColor=white&style=flat" height="40"/>
+  </div>
   <br/>
   <strong>Private Project</strong>
   <p><em>2D roguelike shooter with destructible environment</em></p>
@@ -48,10 +51,13 @@
   <td width="50%" style="vertical-align: top;">
   
   #### 🧠 Chaos Of Symbols
-  <a href="https://github.com/WirrWarr-rgb/ChaosOfSymbols">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" height="40"/>
+  <div>
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" height="40"/>
+    <img src="https://img.shields.io/badge/Solo_Dev-59621a?logo=person&logoColor=white&style=flat" height="40"/>
+  </div>
   <br/>
-  <strong>View Repository →</strong>
+  <a href="https://github.com/WirrWarr-rgb/ChaosOfSymbols">
+    <strong>View Repository →</strong>
   </a>
   <p><em>Cellular automata world simulation</em></p>
   <img width="1087" height="579" alt="COS9" src="https://github.com/user-attachments/assets/4ae8e0cb-828f-4a29-b001-17928b48bb72" />
@@ -62,11 +68,14 @@
   <td width="50%" style="vertical-align: top;">
     
   #### 🧬 Piecefull Monsters
-  <a href="https://github.com/XL1TTE/PFM_6.0">
-  <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=flat" height="40"/>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" height="40"/>
+  <div>
+    <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=flat" height="40"/>
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" height="40"/>
+    <img src="https://img.shields.io/badge/Team_Dev-441a62?logo=person&logoColor=white&style=flat" height="40"/>
+  </div>
   <br/>
-  <strong>View Repository →</strong>
+  <a href="https://github.com/XL1TTE/PFM_6.0">
+    <strong>View Repository →</strong>
   </a>
   <p><em>Monster-building roguelite strategy</em></p>
   <img width="1920" height="1080" alt="Снимок экрана 2026-01-08 153832" src="https://github.com/user-attachments/assets/47ed657a-eb3a-44fa-83ad-90317ee585e6" />
@@ -75,10 +84,13 @@
   <td width="50%" style="vertical-align: top;">
     
   #### 🕹️ codEXEater
-  <a href="https://github.com/SerafimaLoisen/codEXEater">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" height="40"/>
+  <div>
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" height="40"/>
+    <img src="https://img.shields.io/badge/Team_Dev-441a62?logo=person&logoColor=white&style=flat" height="40"/>
+  </div>
   <br/>
-  <strong>View Repository →</strong>
+  <a href="https://github.com/SerafimaLoisen/codEXEater">
+    <strong>View Repository →</strong>
   </a>
   <p><em>Challenging console platformer</em></p>
   <img width="738" height="402" alt="Enemy_1" src="https://github.com/user-attachments/assets/df2e0def-adfe-460b-862b-20855a661c17" />
@@ -87,17 +99,39 @@
   </table>
   
   ### Other Games
-  [![Spoilage](https://github.com/user-attachments/assets/03b3c245-6f3d-4439-beb0-185418915960)](https://serafimaloisen.itch.io/codexeater)
-  [![Spoilage](https://img.shields.io/badge/🍓_Spoilage-324100?style=for-the-badge)]([https://github.com/WirrWarr-rgb/ChaosOfSymbols](https://serafimaloisen.itch.io/codexeater))
-  [![Zelle](https://img.shields.io/badge/👽_Zelle-1A035D?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![Life before my eyes](https://img.shields.io/badge/👀_Life_before_my_eyes-1F1728?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![The Darkest Light & The Brightest Darkness](https://img.shields.io/badge/⭐_The_Darkest_Light_&_The_Brightest_Darkness-42413C?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![M4LFUNC.corp](https://img.shields.io/badge/🤖_M4LFUNC.corp-2D9378?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![Garbage Genocide](https://img.shields.io/badge/🐸_Garbage_Genocide-770806?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![Green Hope](https://img.shields.io/badge/🌱_Green_Hope-342D18?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![Exit 6](https://img.shields.io/badge/🚷_Exit_6-D1A41D?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![Piecefull Monsters](https://img.shields.io/badge/🐁_Piecefull_Monsters-4E1A53?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  
+  <div>
+  <a href="https://wirrwarr.itch.io/exit-6">
+    <img src="https://github.com/user-attachments/assets/66719232-7ba3-4772-9c6a-a3b71ca52a41" width="157px" height="125px">
+  </a>
+  <a href="https://wirrwarr.itch.io/piecefull-monsters">
+    <img src="https://github.com/user-attachments/assets/5cb7a80e-3a6a-46d7-a4db-23c17ceba2ed" width="157px" height="125px">
+  </a>
+  <a href="https://wirrwarr.itch.io/the-last-winter">
+    <img src="https://github.com/user-attachments/assets/c6523493-1102-413e-852d-731857dd254e" width="157px" height="125px">
+  </a>
+  <a href="https://cyberbulliyng.itch.io/zelle">
+    <img src="https://github.com/user-attachments/assets/7f1408c6-fc62-4987-a1c8-756694429308" width="157px" height="125px">
+  </a>
+  <a href="https://vvolfire.itch.io/green-hope">
+    <img src="https://github.com/user-attachments/assets/d48dd2ba-4850-46b2-a63a-5212880a37aa" width="157px" height="125px">
+  </a>
+  <a href="https://vvolfire.itch.io/m4lfunccorp">
+    <img src="https://github.com/user-attachments/assets/0127ede3-efa5-46f0-92e8-85602fc36896" width="157px" height="125px">
+  </a>
+  <a href="https://cyberbulliyng.itch.io/garbage-genocide">
+    <img src="https://github.com/user-attachments/assets/a072efe0-fcea-4a44-a178-55d7307124ca" width="157px" height="125px">
+  </a>
+  <a href="https://wirrwarr.itch.io/spoilage">
+    <img src="https://github.com/user-attachments/assets/7a5966dc-d835-4573-ba72-aa0d8b4d982e" width="157px" height="125px">
+  </a>
+  <a href="https://wirrwarr.itch.io/the-darkest-light-the-brightest-darkness">
+    <img src="https://github.com/user-attachments/assets/c9dc01f7-f732-4283-b21e-82072724717c" width="157px" height="125px">
+  </a>
+  <a href="https://wirrwarr.itch.io/life-before-my-eyes">
+    <img src="https://github.com/user-attachments/assets/a4f0a7f8-1271-46a9-b2be-b6f85e78fd69" width="157px" height="125px">
+  </a>
+  </div>
+
   ### Links
   Portfolio: **[Itch.io Page](https://wirrwarr.itch.io/)**
   
