@@ -22,78 +22,73 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" height="40"/>
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" height="40"/>
     <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=flat" height="40"/>
-    <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat" height="40"/>
-    <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=flat" height="40"/>
-    <img src="https://img.shields.io/badge/Spine%202D-F07B02?style=flat" height="40"/>
-    <img src="https://img.shields.io/badge/MagicaVoxel-FF3366?style=flat" height="40"/>
     <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-4575E6?style=flat" height="40"/>
+    <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=flat" height="40"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat" height="40"/>
+    <img src="https://img.shields.io/badge/MagicaVoxel-FF3366?style=flat" height="40"/>
+    <img src="https://img.shields.io/badge/Spine%202D-F07B02?style=flat" height="40"/>
   </div>
   
   ### Game Portfolio where I was a programmer
   
   <table>
   <tr>
-  <td width="50%">
-
-  <p align="center">
+    
+  <td width="50%" style="vertical-align: top;">
     
   #### 🔫 GetAhead
-  <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=flat" height="40"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" height="40"/>
   <br/>
   <strong>Private Project</strong>
-  </p>
   <p><em>2D roguelike shooter with destructible environment</em></p>
-
+<img width="1920" height="1080" alt="Снимок экрана 2026-01-08 154050" src="https://github.com/user-attachments/assets/badb698a-a934-4108-8ea5-3d6b6df13030" />
   </td>
-  <td width="50%">
-
-  <p align="center">
-    
+  
+  <td width="50%" style="vertical-align: top;">
+  
   #### 🧠 Chaos Of Symbols
   <a href="https://github.com/WirrWarr-rgb/ChaosOfSymbols">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" height="40"/>
   <br/>
   <strong>View Repository →</strong>
   </a>
-  </p>
   <p><em>Cellular automata world simulation</em></p>
-  
+  <img width="1087" height="579" alt="COS9" src="https://github.com/user-attachments/assets/4ae8e0cb-828f-4a29-b001-17928b48bb72" />
   </td>
   </tr>
   <tr>
-  <td width="50%">
-
-  <p align="center">
+    
+  <td width="50%" style="vertical-align: top;">
     
   #### 🧬 Piecefull Monsters
   <a href="https://github.com/XL1TTE/PFM_6.0">
-  <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=flat" height="40"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" height="40"/>
   <br/>
   <strong>View Repository →</strong>
   </a>
-  </p>
   <p><em>Monster-building roguelite strategy</em></p>
-  
+  <img width="1920" height="1080" alt="Снимок экрана 2026-01-08 153832" src="https://github.com/user-attachments/assets/47ed657a-eb3a-44fa-83ad-90317ee585e6" />
   </td>
-  <td width="50%">
-
-  <p align="center">
+  
+  <td width="50%" style="vertical-align: top;">
     
   #### 🕹️ codEXEater
   <a href="https://github.com/SerafimaLoisen/codEXEater">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" height="40"/>
   <br/>
   <strong>View Repository →</strong>
   </a>
-  </p>
   <p><em>Challenging console platformer</em></p>
-  
+  <img width="738" height="402" alt="Enemy_1" src="https://github.com/user-attachments/assets/df2e0def-adfe-460b-862b-20855a661c17" />
   </td>
   </tr>
   </table>
   
   ### Other Games
-  [![Spoilage](https://img.shields.io/badge/🍓_Spoilage-324100?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
+  [![Spoilage](https://github.com/user-attachments/assets/03b3c245-6f3d-4439-beb0-185418915960)](https://serafimaloisen.itch.io/codexeater)
+  [![Spoilage](https://img.shields.io/badge/🍓_Spoilage-324100?style=for-the-badge)]([https://github.com/WirrWarr-rgb/ChaosOfSymbols](https://serafimaloisen.itch.io/codexeater))
   [![Zelle](https://img.shields.io/badge/👽_Zelle-1A035D?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
   [![Life before my eyes](https://img.shields.io/badge/👀_Life_before_my_eyes-1F1728?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
   [![The Darkest Light & The Brightest Darkness](https://img.shields.io/badge/⭐_The_Darkest_Light_&_The_Brightest_Darkness-42413C?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
