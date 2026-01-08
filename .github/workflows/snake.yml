@@ -19,13 +19,13 @@ jobs:
       - name: Create dist directory
         run: mkdir -p dist
         
-      - name: Generate snake animation
+      - name: Generate One Dark snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: WirrWarr-rgb
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=onedark
+            dist/github-contribution-grid-snake-dark.svg?palette=onedark
           
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
