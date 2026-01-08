@@ -5,7 +5,7 @@
   
   My name is Victoria and I'm 20 years old game devoloper from Russia.
   
-  ### Languages & Tools:
+  ### Languages & Tools
   <div>
     <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=flat" height="40"/>
     <img src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white&style=flat" height="40"/>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-4575E6?style=flat" height="40"/>
   </div>
   
-  ### 🎮 Game Portfolio
+  ### Game Portfolio where I was a programmer
   
   <table>
   <tr>
@@ -92,29 +92,29 @@
   </tr>
   </table>
   
-  ### Other Games:
+  ### Other Games
   [![Spoilage](https://img.shields.io/badge/🍓_Spoilage-324100?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
   [![Zelle](https://img.shields.io/badge/👽_Zelle-1A035D?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![Life before my eyes](https://img.shields.io/badge/👀_Life_before_my_eyes-292439?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
+  [![Life before my eyes](https://img.shields.io/badge/👀_Life_before_my_eyes-1F1728?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
   [![The Darkest Light & The Brightest Darkness](https://img.shields.io/badge/⭐_The_Darkest_Light_&_The_Brightest_Darkness-42413C?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![M4LFUNC.corp](https://img.shields.io/badge/🤖_M4LFUNC.corp-DF1E79?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
+  [![M4LFUNC.corp](https://img.shields.io/badge/🤖_M4LFUNC.corp-2D9378?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
   [![Garbage Genocide](https://img.shields.io/badge/🐸_Garbage_Genocide-770806?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
-  [![Green Hope](https://img.shields.io/badge/🌱_Green_Hope-4B432A?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
+  [![Green Hope](https://img.shields.io/badge/🌱_Green_Hope-342D18?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
   [![Exit 6](https://img.shields.io/badge/🚷_Exit_6-D1A41D?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
   [![Piecefull Monsters](https://img.shields.io/badge/🐁_Piecefull_Monsters-4E1A53?style=for-the-badge)](https://github.com/WirrWarr-rgb/ChaosOfSymbols)
   
   ### Links
-  **[Portfolio: Itch.io Page](https://wirrwarr.itch.io/)**
+  Portfolio: **[Itch.io Page](https://wirrwarr.itch.io/)**
   
   ### GitHub Stats
   
   <div align="center">
     
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WirrWarr-rgb&theme=onedark)
-  ![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WirrWarr-rgb&theme=onedark&utcOffset=3)
-  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WirrWarr-rgb&theme=onedark)
-  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WirrWarr-rgb&&theme=onedark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WirrWarr-rgb&theme=onedark)
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WirrWarr-rgb&theme=github_dark)
+  ![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WirrWarr-rgb&theme=github_dark&utcOffset=3)
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WirrWarr-rgb&theme=github_dark)
+  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WirrWarr-rgb&&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WirrWarr-rgb&theme=github_dark)
   
   </div>
   
