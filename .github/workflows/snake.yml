@@ -19,7 +19,7 @@ jobs:
       - name: Create dist directory
         run: mkdir -p dist
         
-      - name: Generate One Dark snake
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: WirrWarr-rgb
