@@ -3,7 +3,7 @@
   ### 🐲 wirrwarr 🐲
   ### Game Development Student
   
-  My name is Victoria and I'm 20 years old game devoloper from Russia.
+  My name is Victoria and I'm 21 years old game devoloper from Russia.
   
   ### Languages & Tools
   <div>
